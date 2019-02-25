@@ -1,0 +1,6 @@
+*.dat
+elpa/
+irony/
+*.cache
+*.eld
+*.elc

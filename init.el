@@ -1,0 +1,1 @@
+/Users/cihangir/dotfiles/horoz/init.el
