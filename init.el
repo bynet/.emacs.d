@@ -1,1 +1,3 @@
-/Users/cihangir/dotfiles/horoz/init.el
+(load-file "~/dotfiles/horoz/init.el")
+
+
