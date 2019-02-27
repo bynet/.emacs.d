@@ -4,3 +4,5 @@ irony/
 *.cache
 *.eld
 *.elc
+eshell/
+auto-save-list/
